@@ -89,6 +89,7 @@ finished product whatever way works the best for you.
 **Note:** If you are having trouble finding the specific CSS property you need
 to get a specific visual outcome, use your Google skills with queries such as:
 "CSS center text within div".
+"CSS center text within div".
 
 In following the guidelines, you should be referencing the `index.html` to find
 the appropriate tags/IDs that we will use as selectors in our `style.css` file.
@@ -126,7 +127,8 @@ the browser.
   sure to keep a little vertical space around the `<p>`s.
 
 - **Make our `#details` section horizontal**: The details section could go
-  nicely as a footer to the page, instead of a vertical list. To do this, make
+  nicely as a footer to the page, instead of a vertical list. To do this, make  text-align: center;
+
   each of the `<div>`s `float` to the `left`.
 
 - **As a finishing touch**: Let's clean up the `<div>`s at the bottom of the
